@@ -12,9 +12,6 @@ Redhand is a tool designed to assist security professionals in the evaluation an
 ## Requirements
 Lots of RAM... You can quickly run out of memory if you run to many virtual machines at once, I'm fixing this problem in the next release where I will add a sample queue.
 
-
-<hr>
-
 ## Good to know
 There is currently no integrated setup for a intrusion detection system but I recommend to pick OSSEC (open-source) and configure it to your needs so that you can test files against a IDS with rulesets that matches your adversary for more realistic results.
 
